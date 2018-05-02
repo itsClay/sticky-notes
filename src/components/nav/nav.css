@@ -1,0 +1,17 @@
+.nav {
+  background-color: rgba(31, 37, 51, 1);
+  position: sticky;
+  display: flex;
+  height: 5em;
+  align-items: center;
+  justify-content: center;
+}
+.nav-title {
+  color: white;
+
+}
+.nav-btn {
+  position: absolute;
+  right: 3%;
+  width: 10em;
+}
